@@ -1,6 +1,5 @@
 import telebot
 import datetime
-import traceback
 from telebot import types
 import misc
 import os
